@@ -1,0 +1,11 @@
+import { NavBar } from "./NavBar"
+
+
+export const AboutPage = () => {
+    return (
+        <div>
+            <h1>AboutPage</h1>
+            <hr />
+        </div>
+    )
+}
